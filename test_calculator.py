@@ -6,7 +6,7 @@ import calculator
 
 
 class TestCalculator:
- 
+
     def test_additoin(self):
         assert 4 == calculator.add(2, 2)
 
